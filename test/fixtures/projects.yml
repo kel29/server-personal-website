@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  languages: MyString
+  description: MyString
+  visual: MyString
+  frontend_repo: MyString
+  backend_repo: MyString
+  url: MyString
+
+two:
+  name: MyString
+  languages: MyString
+  description: MyString
+  visual: MyString
+  frontend_repo: MyString
+  backend_repo: MyString
+  url: MyString
